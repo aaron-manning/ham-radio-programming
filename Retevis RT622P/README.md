@@ -24,6 +24,8 @@ Programming cable: [SKU J9138P](https://www.retevis.com/rt20-rt65-rb19-usb-progr
 
 The cable is plug and play on Windows 10. Just select the corresponding COM port in the CPS.
 
+The radio must be powered on to connect.
+
 # Unlocking
 
 > It is illegal to use higher power that 0.5W on PMR446 frequencies. Use this only if you want to use the radio on other frequencies you are licensed to use (HAM).
